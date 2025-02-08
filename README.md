@@ -19,38 +19,25 @@ Follow these steps to set up and run the application on your system.
 ### 1️⃣ Clone the Repository  
 First, clone this repository to your local machine:  
 
-git clone https://github.com/your-username/electron-web-wrapper.git
-cd electron-web-wrapper
-
-    1️⃣ Clone the Repository  
-
-        Click <> Code Download ZIP
-
-    2️⃣ Install Dependencies  
-
-            npm install
-
-    3️⃣ Run the Application  
-
-        npn satrt
+git clone https://github.com/Saidur-Git/web-to-desktop-App.git
+cd web-to-desktop-App
 
 ## 📦 Building for All Platforms  
 
-       npm run build
-       
-### Install Electron Packager  
+### Install Electron Packager 
+
 ### Package for Windows, macOS, and Linux  
+
 ### Creating Installers (Optional)  
 
 ## 🛠 Configuration  
 
 ### Modify the Web App URL  
+    main.js
 ### Customize the 404 Page  
-
-## 🖥 Supported Platforms  
-
-## 📜 License  
-
+    App/404.html
+ 
 ## 🤝 Contributing  
 
 ## 📧 Contact
+    sabedbarbhuiya3@gmail.com
