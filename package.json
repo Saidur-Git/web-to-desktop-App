@@ -1,0 +1,17 @@
+{
+  "name": "aceternity-ui",
+  "version": "1.0.0",
+  "description": "aceternity ui",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-win": "electron-packager . App --platform=win32 --arch=x64 --icon=Assets/favicon.ico --out=dist --overwrite"
+  },
+  "keywords": [],
+  "author": "Saidur Rohman Barbhuiya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^34.1.1",
+    "electron-packager": "^17.1.2"
+  }
+}
